@@ -1,0 +1,29 @@
+{
+  "name": "nuxt-raychat",
+  "version": "1.0.0",
+  "description": "add nuxt raychat to nuxt application",
+  "main": "lib\u001b[D\u001b[D\u001b[D/\u001b[C\u001b[C/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behnamjz/nuxt-raychat.git"
+  },
+  "keywords": [
+    "nuxt-raychat",
+    "nuxt",
+    "raychat",
+    "vue",
+    "chat"
+  ],
+  "author": "behnam jaberi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behnamjz/nuxt-raychat/issues"
+  },
+  "homepage": "https://github.com/behnamjz/nuxt-raychat#readme"
+}
