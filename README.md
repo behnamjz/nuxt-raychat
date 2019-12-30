@@ -1,4 +1,4 @@
-# Nuxt Raychat [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] 
+# Nuxt Raychat
 > Add nuxt Raychat to your nuxt.js application.
 
 **Note:** nuxt Raychat is not enabled in dev mode.
